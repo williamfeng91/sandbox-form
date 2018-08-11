@@ -1,0 +1,23 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "es6-error": "4.1.1",
+    "is-promise": "2.1.0",
+    "lodash": "4.17.10",
+    "react": "16.3.0",
+    "react-dom": "16.3.0",
+    "react-recomponent": "0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
